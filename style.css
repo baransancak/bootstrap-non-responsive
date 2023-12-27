@@ -1,0 +1,95 @@
+body{
+    font-family: "Lato" ;
+}
+
+.navbar{
+    background-color: rgb(44, 62, 80);
+}
+
+.navbar-brand{
+    font-size: 1.7em;
+    font-weight: 700;
+}
+
+.hero{
+    background-color: rgb(26, 188, 156);
+    padding-top:200px ;
+    padding-bottom: 96px;
+    text-align: center;
+}
+
+.hero img{
+    width: 240px;
+    height: auto;
+}
+
+.hero h1{
+    font-size:64px;
+    font-weight: 700;
+}
+
+
+.hero p{
+    font-size: 24px;
+}
+
+
+.portfolio{
+    padding: 6rem 0;
+}
+
+.portfolio h2 {
+    font-size : 3rem;
+    line-height: 2.5rem;
+    text-align: center;
+}
+
+.portfolio img{
+    width: 100%;
+    height:  auto;
+    border-radius: 0.75rem;
+}
+
+.about{
+    background-color: rgb(26, 188, 156);
+    color: white ;
+    padding: 96px 0;
+    font-size: 15px;
+    
+}
+
+.about h2{
+    text-align: center;
+    font-size: 48px;
+}
+
+.about .buttons{
+    text-align: center;
+}
+
+.contact{
+    background-color: rgb(44, 62, 80);
+    padding: 5rem 0;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.contact h4{
+    font-size: 24px;
+    font-weight: 700 ;
+}
+
+.contact a{
+    color: rgb(26, 188, 156);
+}
+
+footer{
+    background-color: #1a252f ;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+}
+
+
+
